@@ -14,6 +14,7 @@ Analysed what the task is about and searched for the necessary informations and 
 Installed Git on my linux
 
 Created an account in Github.and public repository
+
 Add the web content
 
  https://www.youtube.com/watch?v=RGOj5yH7evk
