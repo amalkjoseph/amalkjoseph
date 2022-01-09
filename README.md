@@ -30,3 +30,20 @@ https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
 Then study about github and git
 
 TIME TAKEN : 5 hours
+
+
+
+JANUARY 8
+
+Took leave for personal reason
+
+JANUARY 9
+
+Learned how to launch an amazone EC2 instance ,connect to amazone EC2 instance and more study about aws.
+
+
+ https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
+ 
+ Time Taken : 4 hours
+ 
+ 
