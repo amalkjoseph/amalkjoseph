@@ -33,6 +33,8 @@ TIME TAKEN : 5 hours
 
 
 
+
+
 JANUARY 8
 
 Took leave for personal reason
@@ -45,5 +47,15 @@ Learned how to launch an amazone EC2 instance ,connect to amazone EC2 instance a
  https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
  
  Time Taken : 4 hours
+ 
+ 
+JANUARY 10
+
+install nginx and learn about nginx .
+
+learned how to install and configure
+
+Time Taken : 6 Hours
+
  
  
