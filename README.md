@@ -33,8 +33,6 @@ TIME TAKEN : 5 hours
 
 
 
-
-
 JANUARY 8
 
 Took leave for personal reason
@@ -56,6 +54,18 @@ install nginx and learn about nginx .
 learned how to install and configure
 
 Time Taken : 6 Hours
+
+
+JANUARY 11
+
+Took leave for urgent personal reason
+
+JANUARY 12
+
+Learn about aws and how to host website working on aws
+
+
+Time taken : 6 hours
 
  
  
