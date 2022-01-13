@@ -67,7 +67,7 @@ Learn about aws and how to host website working on aws
 
 Time taken : 6 hours
 
-JANUARY 14
+JANUARY 13
 
 relaunch ec2 and work on it ..install nginx 
 
