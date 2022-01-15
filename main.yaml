@@ -1,0 +1,25 @@
+---
+- name: create aws instance
+  hosts: localhost
+  gather_facts: False
+  become_user: root
+
+  tasks:
+    - name: Launch aws instance
+      ec2: 
+        key_name: amaldevopsk
+        group: launch-wizard-1
+        instance_type: t2.micro
+        image: ami-08e4e35cccc6189f4
+        wait: true
+        region: us-east-1
+        count: 1
+        vpc_subnet_id: subnet-09e319113c6914a79
+        assign_public_ip: yes
+        instance_tags:
+          Name: amaldevops
+        volumes:
+         - device_name: /dev/xvda
+           volume_type: gp2
+           volume_size: 10 
+        user_data: "{{ lookup('file', 'user_data.sh') }}"
