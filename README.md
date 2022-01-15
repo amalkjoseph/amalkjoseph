@@ -73,6 +73,21 @@ relaunch ec2 and work on it ..install nginx
 
 Time taken : 4 hours
 
+JANUARY 14
+
+install wsl and learn about automation using ansible and work on ansible
+
+ https://www.linux.com/news/how-get-started-using-wsl-windows-10/
+
+
+TIME TAKEN :8 hours
+
+JANUARY 15 
+
+Fully automated and complete my project
+
+Time TAKEN : 4 hours
+
 
  
  
